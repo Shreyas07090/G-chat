@@ -1,4 +1,4 @@
-# group-chat-app-by-Diwakar-Singh
+# group-chat-app-by-Shreyas-Unhale
 
 # How to clone?
 1) Copy the URL from the URL box
